@@ -1,0 +1,1 @@
+mongodb+srv://tome:tome@cluster0.rjx0e.mongodb.net/shop
